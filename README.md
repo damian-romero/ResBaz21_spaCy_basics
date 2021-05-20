@@ -1,4 +1,4 @@
 # Basics of text processing with spaCy
 
-Contents coming soon.
+Contents coming today 05/20/2021.
 
