@@ -1,14 +1,13 @@
 # ResBaz Arizona 2021 | Basics of text processing with spaCy
 
 - [ResBaz Arizona 2021 | Basics of text processing with spaCy](#resbaz-arizona-2021--basics-of-text-processing-with-spacy)
-  - [- Final Notes](#--final-notes)
+  - [- Resources](#--resources)
   - [Overview](#overview)
   - [Repository Structure](#repository-structure)
   - [Installation Instructions](#installation-instructions)
     - [Requirements](#requirements)
-    - [If you don't have a `conda` environment](#if-you-dont-have-a-conda-environment)
-  - [Using spaCy](#using-spacy)
-    - [Run the program](#run-the-program)
+    - [Install without a `conda` environment](#install-without-a-conda-environment)
+  - [Using Jupyter](#using-jupyter)
   - [License](#license)
   - [Resources](#resources)
 -------------------------
@@ -113,4 +112,4 @@ For the data used in this repository, please consult the original license.
 
 ------------
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero.ResBaz21_spaCy_basics) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=damian-romero.ResBaz21_spaCy_basics)
